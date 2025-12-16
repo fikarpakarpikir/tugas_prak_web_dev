@@ -1,9 +1,0 @@
-Fonts used in this design:
-
-Font: Sedgwick Ave
-Author: Google Doodle Team UK
-Url: https://fonts.google.com/specimen/Sedgwick+Ave
-
-Font: Poppins
-Author: Indian Type Foundry,Jonny Pinhorn
-Url: https://fonts.google.com/specimen/Poppins
